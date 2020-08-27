@@ -1,0 +1,9 @@
+{
+  "name": "my-react-app",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "cowsay": "^1.4.0",
+    "lodash": "^4.17.20"
+  }
+}
